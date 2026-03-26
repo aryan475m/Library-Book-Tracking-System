@@ -8,7 +8,7 @@
 **Faculty Name:** Dinakaran M<br>
 **Submission Date:** 26 March 2026<br>
 **Github Repository Link:** https://github.com/aryan475m/Library-Book-Tracking-System<br>
-**Live Hosted Link:** https://replit.com/github/aryan475m/Library-Book-Tracking-System<br>
+**Live Hosted Link:** https://aryan475m.github.io/Library-Book-Tracking-System/<br>
 
 ---
 
