@@ -1,0 +1,1 @@
+run = "gcc -o library_book_tracking library_book_tracking.c && ./library_book_tracking"
