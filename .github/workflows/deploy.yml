@@ -27,7 +27,7 @@ jobs:
       - name: Compile to WebAssembly
         run: |
           mkdir public
-          emcc library_book_tracking.c -o public/index.html -s WASM=1
+          emcc library_book_tracking.c -o public/index.html -s WASM=1 -s ASYNCIFY
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
